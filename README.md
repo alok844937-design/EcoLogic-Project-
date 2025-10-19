@@ -32,3 +32,8 @@ Stepwise sequence:
 
 "Planned Feature"
 Analytics graphs and detailed charts are planned for future versions. Current version demonstrates core agent integration and eco-query response flow.
+
+
+## Demo Video (No voice version)
+
+https://drive.google.com/file/d/1Y2QOPBkEvAff06uL86uRpbkrpzqF0n0f/view?usp=drive_link
