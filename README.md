@@ -29,3 +29,6 @@ Stepwise sequence:
    6. Roles & Permissions
        . Managers: Can view all shipments, analytics, suggestions
        . Vendors: Can access assigned shipment data, upload files, get responses
+
+"Planned Feature"
+Analytics graphs and detailed charts are planned for future versions. Current version demonstrates core agent integration and eco-query response flow.
