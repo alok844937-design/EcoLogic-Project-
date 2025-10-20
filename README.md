@@ -37,3 +37,8 @@ Analytics graphs and detailed charts are planned for future versions. Current ve
 ## Demo Video (No voice version)
 
 https://drive.google.com/file/d/1Y2QOPBkEvAff06uL86uRpbkrpzqF0n0f/view?usp=drive_link
+
+
+## Project Presentation (PPTX)
+
+https://drive.google.com/file/d/1dD6f11Jn0Kh7zUq74mz5wiKfQo929BNH/view?usp=drivesdk
